@@ -1,4 +1,4 @@
-import logo from '../logo.svg';
+import logo from '../naruto.jpg';
 import '../css/header.css';
 const Header = () => {
   return(
